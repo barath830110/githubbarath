@@ -63,7 +63,7 @@ p{
     margin: 0 0 0 650px;
 }
 .phone{
-    display: flex;
+    display: inline;
 }
 @media  screen and (max-width: 600px) {
     #feed{
@@ -83,6 +83,12 @@ body{
     margin: 25px 50px 20px 50px;
     font-size: 14px;
 
+}
+.bio{
+    float: inline-start;
+}
+.projects{
+    margin-left: 12%;
 }
     
     
