@@ -86,7 +86,7 @@ body{
 
 }
 .bio{
-    float: inline-start;
+    float: left;
 }
 .projects{
     margin-left: 12%;
