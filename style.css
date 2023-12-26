@@ -89,7 +89,14 @@ body{
     float: left;
 }
 .projects{
-    clear: left;
     font-size: 14px;
+}
+.contact{
+    background-color: black;
+    clear: left;
+    color: aliceblue;
+    padding: 1px 15px 1px 10px;
+    border-radius: 5px;
+    margin: 25px 50px 20px 50px;
 }
 }
