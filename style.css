@@ -89,7 +89,9 @@ body{
     float: left;
 }
 .projects{
-    font-size: 14px;
+    font-size: 12px;
+    margin-left:20%;
+
 }
 .contact{
     background-color: black;
