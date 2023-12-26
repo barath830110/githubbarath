@@ -83,7 +83,6 @@ body{
     border-radius: 5px;
     margin: 25px 50px 20px 50px;
     font-size: 14px;
-
 }
 .bio{
     float: left;
@@ -95,13 +94,13 @@ body{
     border-radius: 18px;
     float: right;
     margin-left: 20px;
-    padding-bottom: 119px;
+    padding-bottom: 29px;
 }
 .contact{
     background-color: black;
     clear: left;
     color:aliceblue;
-    padding: 1px 15px 1px 10px;
+    padding: 10px;
     border-radius: 5px;
     margin: 25px 50px 20px 50px;
 }
