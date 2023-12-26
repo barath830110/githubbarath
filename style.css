@@ -87,6 +87,7 @@ body{
 }
 .bio{
     float: left;
+    margin-right: 12%;
 }
 .projects{
     font-size: 12px;
