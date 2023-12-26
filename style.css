@@ -91,13 +91,13 @@ body{
 }
 .projects{
     font-size: 12px;
-    float: inline-end;
+    float: right;
     margin-left: 1%;
 }
 .contact{
     background-color: black;
     clear: left;
-    color: aliceblue;
+    color:aliceblue;
     padding: 1px 15px 1px 10px;
     border-radius: 5px;
     margin: 25px 50px 20px 50px;
