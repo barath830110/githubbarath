@@ -90,11 +90,10 @@ body{
 }
 .projects{
     background-color: aqua;
-    padding: 15px;
+    padding: 15px 15px 80px 15px;
     border-radius: 18px;
     float: right;
     margin-left: 20px;
-    padding-bottom: 119px;
     margin-bottom: 119px;
 }
 .contact{
