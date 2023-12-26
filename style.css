@@ -90,9 +90,12 @@ body{
     margin-right: 12%;
 }
 .projects{
-    font-size: 12px;
-    float: right;
-    margin-left: 1%;
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 18px;
+    float: inline-start;
+    margin-left: 20px;
+    padding-bottom: 119px;
 }
 .contact{
     background-color: black;
