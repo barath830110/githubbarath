@@ -94,14 +94,14 @@ body{
     border-radius: 18px;
     float: right;
     margin-left: 20px;
-    padding-bottom: 29px;
+    padding-bottom: 119px;
 }
 .contact{
     background-color: black;
     clear: left;
     color:aliceblue;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 5px;
+    border-radius: 6px;
     margin: 25px 50px 20px 50px;
 }
 }
