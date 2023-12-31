@@ -15,7 +15,7 @@ input[type="text"]{
     transition: 1s;
     transform: rotate(360deg);
     border: 5px double black;
-    border-radius: 350px;
+    border-radius: 150px;
     filter: grayscale(0);
 }
 .img{
@@ -24,7 +24,7 @@ input[type="text"]{
     margin-left: 550px;
     margin-top: 100px;
     border: 5px double black;
-    border-radius: 350px;
+    border-radius: 100px;
 }
 .home{
     background-color: red;
@@ -74,10 +74,10 @@ button{
 @media screen and (max-width:1200px) {
     .line{
         width: 400px;
-        margin-left: 15px;
+        margin-left: 5px;
     }
     .img{
-        margin-left: 50px;
+        margin-left: 10px;
     }
     .body{
         justify-content: center;
