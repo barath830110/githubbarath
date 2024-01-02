@@ -16,6 +16,7 @@ input[type="text"]{
     transform: rotate(360deg);
     border: 5px double black;
     border-radius: 150px;
+    box-shadow: 0.5 turquoise ;
     filter: grayscale(0);
 }
 .img{
@@ -37,7 +38,7 @@ input[type="text"]{
 .line{
     width: 450px;
     height: 400px;
-    background-color:orange;
+    background-color:transparent;
     margin-left: 500px;
     margin-top: 150px;
     border-radius: 100px;
@@ -45,7 +46,7 @@ input[type="text"]{
 
 }
 body{
-    background-color:palegoldenrod;
+    background-color:darkviolet;
 }
 .name{
     margin-left: 20%;
